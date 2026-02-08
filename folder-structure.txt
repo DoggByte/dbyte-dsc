@@ -1,0 +1,19 @@
+home
+  user
+    desktop
+    document
+    download
+    misc 
+    music 
+    picture
+    public
+    video
+personal
+  desktop
+  document
+  download
+  misc 
+  music 
+  picture
+  public
+  video
